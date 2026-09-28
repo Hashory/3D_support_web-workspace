@@ -1,0 +1,14 @@
+# HWS root whitelist
+/*
+!/.notes/
+!/.notes/**
+!/.agents/
+!/.agents/**
+!/hws.json
+!/.gitignore
+
+# Generated and refreshed by the hws CLI
+/AGENTS.md
+/.agents/skills/hws-jj-workflow/
+/.agents/skills/hws-jj-organize/
+/.agents/skills/hws-cli/
